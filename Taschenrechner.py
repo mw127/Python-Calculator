@@ -16,3 +16,4 @@ print("Die Summe der beiden Zahlen ist: " + str(zahl1 + zahl2))
 #print("Die Summe der beiden Zahlen ist:" + ergebnis)    #auch eine Möglichkeit
 
 print("Auf Wiedersehen")
+print("test")
